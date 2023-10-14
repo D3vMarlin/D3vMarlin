@@ -1,13 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/D3vMarlin/D3vMarlin/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+<div  align="center">
+ <img style="margin-bottom:100px" width=100% src="https://github-production-user-asset-6210df.s3.amazonaws.com/147925723/275260501-3e7e7487-e159-4dfc-9934-e8aa333706a9.png"/>
+</div>
+
+<br></br>
 
 <p align="center">Eu ❤️ resolver desafios usando tecnologia. <br><br>Atualmente sou estudante de Front-end, sou <strong>apaixonado por descobrir coisas novas e usá-las para criar soluções de alta qualidade.</strong></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=D3vMarlin&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-D3vMarlin.vercel.app/api/top-langs/?username=D3vMarlin&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=D3vMarlin&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
